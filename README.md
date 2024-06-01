@@ -23,6 +23,7 @@ Defend Earth. Fight the invaders. Become the hero in Terra Force.
 - [Pure Defender](https://gx.games/challenges/i7alew/pure-defender) - Highest score, no power-ups
 
 ## Release Notes
+- [v1.0.3](release-notes/v1.0.3.md) - June 1, 2024
 - [v1.0.2](release-notes/v1.0.2.md) - May 28, 2024
 - [v1.0.1](release-notes/v1.0.1.md) - May 26, 2024
 - [v1.0.0](release-notes/v1.0.0.md) - May 21, 2024
