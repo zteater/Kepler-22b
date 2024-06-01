@@ -19,7 +19,7 @@ Defend Earth. Fight the invaders. Become the hero in Terra Force.
 
 ## Attackers
 
-Attackers periodically drop bombs directed at the laser cannon or Terra. Attackers can be destroyed by shooting with laser cannon. Attackers increase in speed as they descend towards Terra.
+Attackers periodically drop bombs directed at the laser cannon or Terra. Attackers can be destroyed by shooting with laser cannon. Attackers increase in speed as they descend towards Terra. Game over if attackers reach Terra or destroy the laser cannon.
 
 | Alien    | Level | Health | Points | Bomb      |     |
 | -------- | :---: | :----: | -----: | --------- | :-: |
