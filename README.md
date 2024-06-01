@@ -17,11 +17,10 @@ Defend Earth. Fight the invaders. Become the hero in Terra Force.
 
 ## Challenge Modes
 
-- [Ultimate Defender](https://gx.games/challenges/f897hk/ultimate-defender) (*retired*) - Highest Score
-- Ultimate Defender v2 - Highest score
-- Shield Defender - Longest shield uptime
-- [Pure Defender](https://gx.games/challenges/i7alew/pure-defender) - Highest score, no power-ups
-
+- [Ultimate Defender v2](https://gx.games/challenges/ga68ry/ultimate-defender-v2) - Classic game mode
+- [Shield Defender](https://gx.games/challenges/2h623w/shield-defender) - Shield trial game mode
+- [Pure Defender](https://gx.games/challenges/i7alew/pure-defender) - Extreme game mode
+  
 ## Release Notes
 - [v1.0.3](release-notes/v1.0.3.md) - June 1, 2024
 - [v1.0.2](release-notes/v1.0.2.md) - May 28, 2024
