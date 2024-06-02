@@ -75,13 +75,6 @@ Suppliers do not drop bombs, but only appear briefly before disappearing. When k
 
 <br/>
 
-## Challenge Modes
-- [Ultimate Defender v2](https://gx.games/challenges/ga68ry/ultimate-defender-v2) - Classic game mode
-- [Shield Defender](https://gx.games/challenges/2h623w/shield-defender) - Shield trial game mode
-- [Pure Defender](https://gx.games/challenges/i7alew/pure-defender) - Extreme game mode
-
-<br/>
-
 ## Release Notes
 - [v1.0.3](release-notes/v1.0.3.md) - June 1, 2024
 - [v1.0.2](release-notes/v1.0.2.md) - May 28, 2024
