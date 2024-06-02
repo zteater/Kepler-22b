@@ -76,6 +76,7 @@ Suppliers do not drop bombs, but only appear briefly before disappearing. When k
 <br/>
 
 ## Release Notes
+- [v1.4](release-notes/v1.4.md) - June 1, 2024
 - [v1.3](release-notes/v1.3.md) - June 1, 2024
 - [v1.2](release-notes/v1.2.md) - May 28, 2024
 - [v1.1](release-notes/v1.1.md) - May 26, 2024
