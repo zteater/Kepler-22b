@@ -1,6 +1,6 @@
 # [Terra Force](https://gx.games/games/z23hhv)
 
-https://github.com/zteater/Terra-Force/assets/8954363/9b123a3a-aefc-40a5-a301-8903441d505b
+https://github.com/zteater/Terra-Force/assets/8954363/25031c24-9ff1-4fd2-a071-ec090cdc3f43
 
 ## Overview
 In a desperate struggle for survival, Earth finds itself besieged by unyielding alien forces. As humanity's final bastion of defense, you must seize control of a formidable laser cannon to fend off the extraterrestrial invaders.
