@@ -16,9 +16,6 @@ The fate of humanity rests in your hands. Are you prepared to step up and save t
 - Face endless waves of aliens, with the difficulty increasing as you progress.
 - Hold the line against the extraterrestrial onslaught and secure humanity’s future.
 
-### Mission
-Defend Earth. Fight the invaders. Become the hero in Terra Force.
-
 <br/>
 
 ## Attackers
