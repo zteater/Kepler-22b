@@ -11,7 +11,7 @@ The fate of humanity rests in your hands. Are you prepared to step up and save t
 
 ### Gameplay Features
 - Harness powerful weapons and employ strategic tactics to protect Earth.
-- Engage in intense, fast-paced battles against 11 unique alien types.
+- Engage in intense, fast-paced battles against 10 unique alien types.
 - Utilize power-ups to gain the upper hand.
 - Face endless waves of aliens, with the difficulty increasing as you progress.
 - Hold the line against the extraterrestrial onslaught and secure humanity’s future.
