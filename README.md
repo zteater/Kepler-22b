@@ -1,6 +1,9 @@
 # [Kepler 22b](https://gx.games/games/z23hhv)
 
-https://github.com/zteater/Terra-Force/assets/8954363/25031c24-9ff1-4fd2-a071-ec090cdc3f43
+
+https://github.com/zteater/Kepler-22b/assets/8954363/08e29ea6-e7a6-4cf8-86fd-2ac4aa1d8cc3
+
+
 
 ## Overview
 In the year 2107, Earth has been ravaged by war and dwindling resources. Faced with imminent extinction, humanity establishes a remote colony on Kepler 22b. However, the aliens who already occupy the planet are determined to defend their territory to the death. Known as the Krell, they will have none of humanity's attempts at peaceful coexistence and relentlessly assail the colony.
