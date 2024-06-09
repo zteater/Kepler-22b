@@ -1,4 +1,4 @@
-# [Terra Force](https://gx.games/games/z23hhv)
+# [Kepler 22b](https://gx.games/games/z23hhv)
 
 https://github.com/zteater/Terra-Force/assets/8954363/25031c24-9ff1-4fd2-a071-ec090cdc3f43
 
