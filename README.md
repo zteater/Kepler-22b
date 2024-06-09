@@ -3,11 +3,11 @@
 https://github.com/zteater/Terra-Force/assets/8954363/25031c24-9ff1-4fd2-a071-ec090cdc3f43
 
 ## Overview
-In a desperate struggle for survival, Earth finds itself besieged by unyielding alien forces. As humanity's final bastion of defense, you must seize control of a formidable laser cannon to fend off the extraterrestrial invaders.
+In the year 2107, Earth has been ravaged by war and dwindling resources. Faced with imminent extinction, humanity establishes a remote colony on Kepler 22b. However, the aliens who already occupy the planet are determined to defend their territory to the death. Known as the Krell, they will have none of humanity's attempts at peaceful coexistence and relentlessly assail the colony.
 
-Upgrade your weaponry and defenses between waves to boost your firepower and fortify against the relentless alien onslaught. Be warned, these extraterrestrial adversaries are determined and will stop at nothing to conquer Earth.
+As the colony's defenses begin to crumble under repeated attacks, you must take command of a powerful laser cannon and fend off the unyielding assault of the alien forces. 
 
-The fate of humanity rests in your hands. Are you prepared to step up and save the world?
+The fate of humanity hangs in the balance.
 
 ### Gameplay Features
 - Harness powerful weapons and employ strategic tactics to protect Earth.
@@ -20,8 +20,7 @@ The fate of humanity rests in your hands. Are you prepared to step up and save t
 
 ## Attackers
 
-
-Attackers periodically drop bombs directed at the laser cannon or Terra. Attackers can be destroyed by shooting with laser cannon. Attackers increase in speed as they descend towards Terra. Game over if attackers reach Terra or destroy the laser cannon.
+Attackers periodically drop bombs aimed at the laser cannon or the surface. They can be destroyed by the laser cannon's shots. As attackers descend towards the Colony, they increase in speed. The game ends if attackers reach the colony or destroy the laser cannon.
 
 | Alien    | Wave  | Health | Points | Bomb      |     |
 | -------- | :---: | :----: | -----: | --------- | :-: |
@@ -38,7 +37,7 @@ Attackers periodically drop bombs directed at the laser cannon or Terra. Attacke
 
 ## Suppliers
 
-Suppliers do not drop bombs, but only appear briefly before disappearing. When killed, they can drop a useful buff. A buff can be collected by collisions with the laser or by shooting down. If a buff is collected, then suppliers have a cooldown before they will appear again. 
+Suppliers do not drop bombs; instead, they briefly appear before disappearing. When destroyed, they can drop a useful power-up. Power-ups can be collected either by colliding with the laser or shooting them down. After collecting a power-up, suppliers have a cooldown period before appearing again.
 
 | Alien  | Wave | Health | Points | Spawn Chance | Buffs |      |
 | ------ | :--: | :----: | :----: | :----------: | :---- | :--: |
@@ -50,31 +49,40 @@ Suppliers do not drop bombs, but only appear briefly before disappearing. When k
 
 ## Game Modes
 - **Classic**
-  - All gameplay features enabled
-  - Kill as many aliens as possible
+  - Experience all gameplay features
+  - Aim to eliminate as many aliens as possible
+
 - **Extreme**
-  - Start at level 10
-  - No power-ups
-  - 1 life
-  - Survive as many waves as possible
+  - Begin at level 10
+  - No power-ups available
+  - Only one life
+  - Strive to survive through numerous waves
+
 - **Shield Trial**
   - Start at level 10
-  - Start with 3 point shield
+  - Begin with a 3-point shield
   - Start with rapid fire power-up
-  - Maintain the shield for as long as possible  
-- **Crab Rave**
-  - Start at level 5
-  - No power-ups
-  - 1 life
-  - Only crabs spawn
-  - Crabs move twice as fast
-  - Crabs drop twice as many bombs
-  - Kill as many crabs as possible 
+  - Challenge yourself to maintain the shield as long as possible
+
+- **Pincher Rave**
+  - Begin at level 5
+  - No power-ups available
+  - Only Pinchers spawn
+  - Pinchers move at double speed
+  - Pinchers drop twice as many bombs
+  - Aim to eliminate as many Pinchers as possible
+
 - **Dodgeball**
   - Start at level 10
-  - Laser cannot shoot
-  - Laser speed increased 50%
-  - Dodge as many bombs as possible  
+  - Laser cannon cannot shoot
+  - Laser speed increased by 50%
+  - Focus on dodging as many bombs as possible
+
+- **Sharpshooter**
+  - Start at level 5
+  - Begin with 40 ammo
+  - Ammo replenished with each alien killed or wave completed
+
 
 <br/>
 
