@@ -6,7 +6,7 @@ https://github.com/zteater/Kepler-22b/assets/8954363/08e29ea6-e7a6-4cf8-86fd-2ac
 
 
 ## Overview
-In the year 2107, Earth has been ravaged by war and dwindling resources. Faced with imminent extinction, humanity establishes a remote colony on Kepler 22b. However, the aliens who already occupy the planet are determined to defend their territory to the death. Known as the Krell, they will have none of humanity's attempts at peaceful coexistence and relentlessly assail the colony.
+In the year 2307, Earth has been ravaged by war and dwindling resources. Faced with imminent extinction, humanity establishes a remote colony on Kepler 22b. However, the aliens who already occupy the planet are determined to defend their territory to the death. Known as the Krell, they will have none of humanity's attempts at peaceful coexistence and relentlessly assail the colony.
 
 As the colony's defenses begin to crumble under repeated attacks, you must take command of a powerful laser cannon and fend off the unyielding assault of the alien forces. 
 
